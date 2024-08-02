@@ -1227,7 +1227,7 @@ body {
 @media (min-width: 1080px) {
 
   .tab-panel .card {
-    max-width: calc(50% -8px);
+    max-width: calc(50% - 8px);
   }
 
 }
