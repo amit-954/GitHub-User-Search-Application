@@ -75,7 +75,7 @@ const Header = ({ onSearch }) => {
 		<header className="header" data-header>
 			<div className="container">
 				<a href="/" className="logo">
-					<span className="text-primary">Git</span>Verse
+					GitVerse
 				</a>
 
 				<div className="header-search">
